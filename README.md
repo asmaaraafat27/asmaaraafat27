@@ -8,7 +8,7 @@
 
 #### Skills:
 
-[(https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,cpp,cs,python,java,mysql,html,css,unity)]
+[![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,cpp,cs,python,java,mysql,html,css,unity)]
 
 
 [![Anurag's GitHub status](https://github-readme-status.vercel.app/api?username=asmaaraafat27)](https://github.com/anuraghazra/github-readme-status)
