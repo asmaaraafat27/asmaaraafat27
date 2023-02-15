@@ -11,7 +11,7 @@
 ![](https://skillicons.dev/icons?i=cpp,cs,python,mysql,html,css,unity)
 
 #### Social:
-![](https://skillicons.dev/icons?i=linkedin)
+![](https://skillicons.dev/icons?i=linkedin(https://www.linkedin.com/in/asmaaraafat/))
 
 
 [![Anurag's GitHub status](https://github-readme-status.vercel.app/api?username=asmaaraafat27)](https://github.com/anuraghazra/github-readme-status)
