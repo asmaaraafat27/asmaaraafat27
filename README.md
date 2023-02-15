@@ -7,6 +7,6 @@
 
 [![Skills: ](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=all,c#,python,java,mysql,html,css,unity)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmaaraafat27)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=asmaaraafat27)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaaraafat27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
