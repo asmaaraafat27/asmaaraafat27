@@ -5,7 +5,7 @@
 -  :envelope: You can contact me at asmaaraafatt27@gmail.com
 -  :brain:	I'm learning Backend development with Python
 
-[![Skills:](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=all,cs,python,java,mysql,html,css,unity)](https://skillicons.dev)
+[![Skills:](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=all,cpp,cs,python,java,mysql,html,css,unity)](https://skillicons.dev)
 
 [![Anurag's GitHub status](https://github-readme-status.vercel.app/api?username=asmaaraafat27)](https://github.com/anuraghazra/github-readme-status)
 
