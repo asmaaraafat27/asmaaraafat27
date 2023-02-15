@@ -9,18 +9,9 @@
 #### Skills:
 
 ![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,cpp,cs,python,mysql,html,css,unity)
-(https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
-![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,cs)(https://learn.microsoft.com/en-us/dotnet/csharp/)
-![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,python)
-(https://www.python.org/)
-![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,mysql)(https://azure.microsoft.com/en-us/products/mysql)
-![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,html)(https://learn.microsoft.com/en-us/cpp/mfc/html-basics?view=msvc-170)
-![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,css)
-(https://developer.mozilla.org/en-US/docs/Web/CSS/Microsoft_Extensions)
-![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,unity)(https://unity.com/)
 
 #### Social:
-![](https://skillicons.dev/icons?i=linked//inhttps://www.linkedin.com/in/asmaaraafat/)
+![](https://skillicons.dev/icons?i=linkedin)
 
 
 [![Anurag's GitHub status](https://github-readme-status.vercel.app/api?username=asmaaraafat27)](https://github.com/anuraghazra/github-readme-status)
