@@ -6,7 +6,7 @@
 -  :brain:	I'm learning Backend development with Python
 
 
-####Skills:
+#### Skills:
 
 [![Skills:](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=all,cpp,cs,python,java,mysql,html,css,unity)](https://skillicons.dev)
 
