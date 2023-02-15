@@ -8,7 +8,7 @@
 
 #### Skills:
 
-![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i= cpp,cs,python,mysql,html,css,unity)
+![](https://skillicons.dev/icons?i=cpp,cs,python,mysql,html,css,unity)
 
 #### Social:
 ![](https://skillicons.dev/icons?i=linkedin)
