@@ -11,7 +11,7 @@
 ![](https://skillicons.dev/icons?i=cpp,cs,python,mysql,html,css,unity)
 
 #### Social:
-![](https://skillicons.dev/icons?i=linkedin)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asmaaraafat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Asmaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/asmaa_raafat/) 
 
 
 [![Anurag's GitHub status](https://github-readme-status.vercel.app/api?username=asmaaraafat27)](https://github.com/anuraghazra/github-readme-status)
