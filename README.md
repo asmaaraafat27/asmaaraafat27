@@ -20,7 +20,8 @@
 ![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,unity)(https://unity.com/)
 
 #### Social:
-![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/asmaaraafat/)
+![](https://skillicons.dev/icons?i=linkedin)][LinkedIn](https://www.linkedin.com/in/asmaaraafat/)
+
 
 [![Anurag's GitHub status](https://github-readme-status.vercel.app/api?username=asmaaraafat27)](https://github.com/anuraghazra/github-readme-status)
 
