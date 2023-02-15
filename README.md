@@ -8,8 +8,12 @@
 
 #### Skills:
 
-![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,cpp,cs,python,java,mysql,html,css,unity)
+![](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,cpp,cs,python,mysql,html,css,unity)
+(https://learn.microsoft.com/en-us/cpp/?view=msvc-170)(https://learn.microsoft.com/en-us/dotnet/csharp/)
+(https://www.python.org/)(https://azure.microsoft.com/en-us/products/mysql)(https://learn.microsoft.com/en-us/cpp/mfc/html-basics?view=msvc-170)
+(https://developer.mozilla.org/en-US/docs/Web/CSS/Microsoft_Extensions)(https://unity.com/)
 
+#### Social:
 
 [![Anurag's GitHub status](https://github-readme-status.vercel.app/api?username=asmaaraafat27)](https://github.com/anuraghazra/github-readme-status)
 
