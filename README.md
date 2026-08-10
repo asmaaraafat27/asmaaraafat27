@@ -1,9 +1,8 @@
 ## Hi 👋
 
-#### I'm Asmaa Raafat a computer science student interested in competitive programming, back-end technologies, seeking challenges, and my goals for growth and advancement.
+#### I'm Asmaa Raafat, a Backend Developer passionate about building scalable and efficient software solutions. Strong foundation in Computer Science, Node.js, JavaScript, databases, and problem-solving. Always eager to learn, explore new technologies, and turn ideas into practical applications.
 -  :earth_africa:	I'm based in Egypt.
 -  :envelope: You can contact me at asmaaraafatt27@gmail.com
--  :brain: I'm a passionate learner diving into Node.js to strengthen my back-end development skills.
 
 
 #### Skills:
